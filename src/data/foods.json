@@ -1,0 +1,17 @@
+[
+    {"icon": "🥖", "name": "Baguette", "calories": 250},
+    {"icon": "🍮", "name": "Bread Pudding", "calories": 200},
+    {"icon": "🥗", "name": "Bread Salad", "calories": 150},
+    {"icon": "🍞", "name": "Sourdough Bread", "calories": 300},
+    {"icon": "🥐", "name": "Croissant", "calories": 300},
+    {"icon": "🥨", "name": "Pretzel", "calories": 200},
+    {"icon": "🥯", "name": "Bagel", "calories": 250},
+    {"icon": "🫓", "name": "Naan", "calories": 300},
+    {"icon": "🍞", "name": "Brioche Bread", "calories": 350},
+    {"icon": "🫓", "name": "Ciabatta Bread", "calories": 250},
+    {"icon": "🍞", "name": "Rye Bread", "calories": 260},
+    {"icon": "🥯", "name": "Pita Bread", "calories": 170},
+    {"icon": "🍰", "name": "Cake", "calories": 350},
+    {"icon": "🥧", "name": "Pie", "calories": 300},
+    {"icon": "🥪", "name": "Sandwich", "calories": 300}
+]

@@ -1,0 +1,19 @@
+   <button>Fancy Button</button>
+
+<style>
+	button {
+		background-color: #ea4c89;
+		border-radius: 8px;
+		border: none;
+		color: white;
+		cursor: pointer;
+		font-size: 14px;
+		padding: 10px 16px;
+		transition: background-color 100ms;
+	}
+
+	button:hover,
+	button:focus {
+		background-color: #f082ac;
+	}
+</style>

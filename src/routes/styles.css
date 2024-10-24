@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--color-pink: #fa839e;
+	--color-gradient-orange: #feb22a;
+	--color-gradient-pink: #fa80a5;
+	--color-gradient-purple: #9265fd;
+	--color-gradient-blue: #9265fd; /* This one repeats, you can use it as needed */
+	--color-light-blue: #eaf5f6;
+	--color-dark-gray: #363b3b;
+	--color-light-gray: #f5f5f5;
+	--color-teal: #0bd99c;
+}
+/* Background color classes */
+.bg-pink {
+	background-color: var(--color-pink);
+}
+
+.bg-gradient-orange {
+	background-color: var(--color-gradient-orange);
+}
+
+.bg-gradient-pink {
+	background-color: var(--color-gradient-pink);
+}
+
+.bg-gradient-purple {
+	background-color: var(--color-gradient-purple);
+}
+
+.bg-gradient-blue {
+	background-color: var(--color-gradient-blue);
+}
+
+.bg-light-blue {
+	background-color: var(--color-light-blue);
+}
+
+.bg-dark-gray {
+	background-color: var(--color-dark-gray);
+}
+
+.bg-light-gray {
+	background-color: var(--color-light-gray);
+}
+
+.bg-teal {
+	background-color: var(--color-teal);
+}
+
+/* Text color classes */
+.text-pink {
+	color: var(--color-pink);
+}
+
+.text-gradient-orange {
+	color: var(--color-gradient-orange);
+}
+
+.text-gradient-pink {
+	color: var(--color-gradient-pink);
+}
+
+.text-gradient-purple {
+	color: var(--color-gradient-purple);
+}
+
+.text-gradient-blue {
+	color: var(--color-gradient-blue);
+}
+
+.text-light-blue {
+	color: var(--color-light-blue);
+}
+
+.text-dark-gray {
+	color: var(--color-dark-gray);
+}
+
+.text-light-gray {
+	color: var(--color-light-gray);
+}
+
+.text-teal {
+	color: var(--color-teal);
+}
+
+.box-1 {
+	border: 2px solid darkgray;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+h1 {
+	margin: 5px 0px 10px 0px;
+	font-size: xx-large;
+}
+
+.btn2 {
+	color: white;
+	padding: 5px 10px;
+	font-size: 20px;
+	border-radius: 30px;
+	text-align: center;
+}
+
+body {
+	font-family: 'Noto Sans';
+}
+
+.box {
+	border: 2px solid rgb(255, 255, 255);
+	background: white;
+	cursor: pointer;
+	border-radius: 50px;
+	padding: 22px;
+}
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
